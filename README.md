@@ -6,5 +6,7 @@ Every new qtum release have own branch where branch name is qtum version. For ea
 
 Branches and releases:
 
+  - [0.17.1](https://github.com/ExodusMovement/docker-qtumd/tree/0.17.1)
+    - [0.17.1-001](https://github.com/ExodusMovement/docker-qtumd/tree/0.17.1-001)
   - [0.16.1](https://github.com/ExodusMovement/docker-qtumd/tree/0.16.1)
     - [0.16.1-001](https://github.com/ExodusMovement/docker-qtumd/tree/0.16.1-001)
