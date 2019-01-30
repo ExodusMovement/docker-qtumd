@@ -1,1 +1,1 @@
-https://github.com/qtumproject/qtum/releases/tag/v0.16.1
+https://github.com/qtumproject/qtum/releases/tag/v0.17.1
